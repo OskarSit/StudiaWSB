@@ -8,7 +8,7 @@ class Flight:
         self.departure_time = departure_time
         self.capacity = capacity
         self.seats_booked = 0
-#self 
+
     def display_flight_details(self):
         print("Flight Number:", self.flight_number)
         print("Origin:", self.origin)
